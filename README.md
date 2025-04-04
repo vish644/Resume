@@ -12,4 +12,4 @@ https://github.com/vish644/Resume
 
 ## 📫 Contact Me
 - Email: dayamavaishnavi@gmail.com  
-- LinkedIn: linkedin.com/in/vaishnavi-dayama-173861200/      
+- LinkedIn: https://linkedin.com/in/vaishnavi-dayama-173861200/      
